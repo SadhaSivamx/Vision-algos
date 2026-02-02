@@ -44,4 +44,5 @@ def extract(input_path, output_folder, n=10):
 
 
 if __name__ == "__main__":
-    extract('Dr.mp4', 'Frames/', n=1)
+
+    extract('Drone.mp4', 'Frames/', n=1)
