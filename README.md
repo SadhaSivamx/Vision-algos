@@ -17,4 +17,4 @@ vision-algos
 └── README.md
 ```
 ### Resources
-- ** First Principles of Computer Vision (Shree Nayar) : ** [YouTube Channel](https://www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw)
+- **First Principles of Computer Vision (Shree Nayar) :** [YouTube Channel](https://www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw)
