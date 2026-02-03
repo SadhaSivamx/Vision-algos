@@ -16,5 +16,5 @@ vision-algos
 │   └── Best.onnx ( DL Model )
 └── README.md
 ```
-### Resources
+### References
 - **First Principles of Computer Vision (Shree Nayar) :** [YouTube Channel](https://www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw)
