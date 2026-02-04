@@ -19,7 +19,7 @@ vision-algos
 └── README.md
 ```
 ### References
-- **First Principles of Computer Vision (Shree Nayar) :** [YouTube Channel](https://www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw)
-- **Sanderson, G. (3Blue1Brown). *Essence of Linear Algebra** [YouTube Series](https://www.youtube.com/watch?v=kjBOesZCoqc).
-- **Levey, S. *The Matrix Transpose: Visual Intuition** [YouTube Video](https://www.youtube.com/watch?v=wjYpzkQoyD8).
-- **Visual Kernel. *SVD Visualized, Singular Value Decomposition explained** [YouTube Video](https://www.youtube.com/watch?v=vSczTbgc8Rc).
+- ** *First Principles of Computer Vision (Shree Nayar)* ** [YouTube Channel](https://www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw)
+- ** *Sanderson, G. (3Blue1Brown). *Essence of Linear Algebra* ** [YouTube Series](https://www.youtube.com/watch?v=kjBOesZCoqc).
+- ** *Levey, S. *The Matrix Transpose: Visual Intuition* ** [YouTube Video](https://www.youtube.com/watch?v=wjYpzkQoyD8).
+- ** *Visual Kernel. *SVD Visualized, Singular Value Decomposition explained* ** [YouTube Video](https://www.youtube.com/watch?v=vSczTbgc8Rc).
