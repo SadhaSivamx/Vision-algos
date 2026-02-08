@@ -5,6 +5,11 @@ A collection of computer vision algorithms and experiments.
 ```text
 vision-algos
 │
+├── /BGFG
+│   ├── /Src
+│   │   └── Shrimp.mp4 ( Video )
+│   └── GMM-FGBG.py ( Seperation between FG|BG )
+|
 ├── /ObjectTracking
 │   ├── /Src
 │   │   └── Drone.mp4 ( Video )
@@ -16,6 +21,7 @@ vision-algos
 │   └── Best.onnx ( DL Model )
 ├── /Math
 │   └── Lalg-SVD-PCA.ipynb ( SVD & PCA with Visual Understanding )
+│   └── GMM-FGBG.ipynb ( For Understanding Gaussian Mixture Model )
 └── README.md
 ```
 ### References
