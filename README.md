@@ -9,7 +9,10 @@ vision-algos
 │   ├── /Src
 │   │   └── Shrimp.mp4 ( Video )
 │   └── GMM-FGBG.py ( Seperation between FG|BG )
-|
+├── /Segmentation
+│   ├── Graphcut.ipynb ( derivation and Example ) 
+│   ├── Kmeans.py ( explanation and Execution )
+│   └── Meanshift.py ( explanation and Execution )
 ├── /ObjectTracking
 │   ├── /Src
 │   │   └── Drone.mp4 ( Video )
