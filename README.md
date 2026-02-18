@@ -5,6 +5,9 @@ A collection of computer vision algorithms and experiments.
 ```text
 vision-algos
 │
+├── /ObjectDetection
+│   ├── /Src
+│   └── GeneralizedHoughs.py ( Houghs transform on complex shapes )
 ├── /BGFG
 │   ├── /Src
 │   │   └── Shrimp.mp4 ( Video )
