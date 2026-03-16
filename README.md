@@ -16,6 +16,10 @@ vision-algos
 │   ├── Graphcut.ipynb ( derivation and Example ) 
 │   ├── Kmeans.py ( explanation and Execution )
 │   └── Meanshift.py ( explanation and Execution )
+├── /ML
+│   ├── GradiantDescent.py ( Example ) 
+│   ├── Perceptron-LN ( Perceptron with Linear Act )
+│   └── Perceptron-SG ( Perceptron with Sigmoid Act )
 ├── /ObjectTracking
 │   ├── /Src
 │   │   └── Drone.mp4 ( Video )
