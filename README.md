@@ -17,7 +17,8 @@ vision-algos
 │   ├── Kmeans.py ( explanation and Execution )
 │   └── Meanshift.py ( explanation and Execution )
 ├── /ML
-│   ├── Perceptron ( GradientDescent , Perceptron etc ) 
+│   ├── Perceptron ( GradientDescent , Perceptron etc )
+│   ├── Neural-Network ( Multifeatured , w/wo Activation etc ) 
 ├── /ObjectTracking
 │   ├── /Src
 │   │   └── Drone.mp4 ( Video )
