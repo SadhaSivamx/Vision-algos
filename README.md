@@ -20,6 +20,7 @@ vision-algos
 │   ├── Perceptron ( GradientDescent , Perceptron etc )
 │   ├── Neural-Network ( Multifeatured , w/wo Activation etc )
 │   ├── Regularizations ( L1 , L2 )
+│   ├── Layers ( Convolution , MaxPooling )
 ├── /ObjectTracking
 │   ├── /Src
 │   │   └── Drone.mp4 ( Video )
