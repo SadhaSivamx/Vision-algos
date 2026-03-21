@@ -21,6 +21,7 @@ vision-algos
 │   ├── Neural-Network ( Multifeatured , w/wo Activation etc )
 │   ├── Regularizations ( L1 , L2 )
 │   ├── Layers ( Convolution , MaxPooling )
+│   ├── CNN ( End to End Convolutional Neural Network )
 ├── /ObjectTracking
 │   ├── /Src
 │   │   └── Drone.mp4 ( Video )
