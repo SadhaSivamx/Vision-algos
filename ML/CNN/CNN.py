@@ -51,13 +51,7 @@ def Convbackward(dz, orig_img, kernal):
                 patch = imgp[:, x:x + kheight, y:y + kheight]
                 dW[f] += patch * dz[f, x, y]
                 dimgp[:, x:x + kheight, y:y + kheight] += kernal[f] * dz[f, x, y]
-
-    if padreq > 0:
-        dimg = dimgp[:, padreq:-padreq, padreq:-padreq]
-    else:
-        dimg = dimgp
-
-    return dW, dimg
+    return dW,dimgp[:, padreq:-padreq, padreq:-padreq]
 
 
 '''
