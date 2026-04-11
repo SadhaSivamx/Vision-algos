@@ -1,4 +1,5 @@
 import numpy as np
+
 def Conv(kernal, input, stride):
     kerfilters, kerdepth, kersize, _ = kernal.shape
     batch, depth, height, width = input.shape
